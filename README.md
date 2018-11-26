@@ -1,2 +1,5 @@
 # cs4hs
-Tutorial session at cs4hs 2018
+
+## test project
+
+This is a project used to experiment with GitHub.
