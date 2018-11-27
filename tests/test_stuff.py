@@ -1,4 +1,4 @@
-from pkg import hello
+from ../pkg import hello
 
 
 def func(x):
